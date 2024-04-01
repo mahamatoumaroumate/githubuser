@@ -15,7 +15,7 @@ const Search = () => {
     }
   }
   useEffect(() => {
-    dispatch(searchUser('john-smilga'))
+    dispatch(searchUser('mahamatoumaroumate'))
   }, [])
   return (
     <>
