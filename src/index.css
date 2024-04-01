@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --color1: hsla(173, 100%, 72%, 0.621);
+  --color2: #ec4899;
+  --color3: #ea8b25;
+  --color3: #fdba74;
+  --color4: #3b82f6;
+  --color4: #bbf7d0;
+  --color1-hover: #52fae69a;
+  --transition: all 0.3s linear;
+  --family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #f1f6f8;
+}
